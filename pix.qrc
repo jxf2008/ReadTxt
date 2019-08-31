@@ -1,0 +1,20 @@
+<RCC>
+    <qresource>
+        <file>images/center.png</file>
+        <file>images/copy.png</file>
+        <file>images/cut.png</file>
+        <file>images/delete.png</file>
+        <file>images/files.ico</file>
+        <file>images/left.png</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/paste.png</file>
+        <file>images/read.png</file>
+        <file>images/re.png</file>
+        <file>images/right.png</file>
+        <file>images/saveAs.png</file>
+        <file>images/save.png</file>
+        <file>images/un.png</file>
+        <file>images/title.png</file>
+    </qresource>
+</RCC>
