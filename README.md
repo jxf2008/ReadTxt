@@ -5,4 +5,4 @@
 
 一个使用Qt编写，模仿Windows系统自带记事本的程序
 
-![](https://github.com/jxf2008/blog/raw/master/pix/Qt自学笔记pix/7-1.png)
+![](https://github.com/jxf2008/blog/raw/master/pix/QtNotes/7-1.png)
